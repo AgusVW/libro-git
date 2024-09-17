@@ -7,4 +7,4 @@
 ## Descripcion del proyecto:
 
 ## Diagrama
- ![Diagrama de SQL](modeloSQL_sistemaClubes);
+ ![Diagrama de SQL](/modeloSQL_sistemaClubes);
